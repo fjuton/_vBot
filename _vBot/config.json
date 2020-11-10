@@ -1,10 +1,10 @@
 {
-    "token": "NzQ4MjU2MTI0NDQ0MjEzMjc4.X0ax0Q.lueBp7Qfe7uRjx2Oq83BanO0cLQ",
-    "logchannel": "774713440178012160",
+    "token": "",
+    "logchannel": "",
     "mysql": {
         "host": "localhost",
         "user": "root",
         "password": "",
-        "database": "testowankobot"
+        "database": ""
     }
 }
